@@ -17,7 +17,7 @@
        A4                                         153.02                         ±49.75
        B1                                         151.66                         ±49.37
        B2                                         152.82                         ±49.11 
-
+       B4                                         154.23                         ±48.73 
 
 
 
@@ -37,3 +37,13 @@ Detailed graphical information and the reports of quality control per sample in 
   [B1 graphic](./png_graphs_B1.zip) and  [B1 report](./B1.doc)
   
   [B2 graphic](./png_graphs_B2.zip) and  [B2 report](./B2.doc)
+  
+  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
+  
+  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
+  
+  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
+  
+  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
+  
+  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
