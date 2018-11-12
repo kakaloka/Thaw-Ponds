@@ -36,4 +36,4 @@ Detailed graphical information and the reports of quality control per sample in 
   
   [B1 graphic](./png_graphs_B1.zip) and  [B1 report](./B1.doc)
   
-  [B2 graphic](./png_graphs_B2.zip) and  [B2 report](./B1.doc)
+  [B2 graphic](./png_graphs_B2.zip) and  [B2 report](./B2.doc)
