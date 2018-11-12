@@ -1,6 +1,6 @@
 # Thaw-Ponds
 
-##Bioinformatic tools for nitrogenase gene mapping and abundances estimations per sample
+## Bioinformatic tools for nitrogenase gene mapping and abundances estimations per sample
 
  To calculate the abundances of nitrogenase genes per sample, we worked with un-assemble sequencing data.  
  1) raw reads were trimmed using Sickle
@@ -9,4 +9,4 @@
  
  Detailed information per sample:
  
- [A1] 
+ [A1](./png_graphs.zip)
