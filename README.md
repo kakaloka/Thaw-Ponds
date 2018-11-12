@@ -28,4 +28,6 @@ Detailed graphical information and the reports of quality control per sample in 
 
   [A1 graphic](./png_graphs.zip)  and   [A1 report](./A1.doc)
   
-  [A2](./png_graphs_A2.zip) 
+  [A2 graphic](./png_graphs_A2.zip) and   [A2 report](./A2.doc)
+
+  [A3 graphic](./png_graphs_A3.zip) and   [A3 report](./A3.doc)
