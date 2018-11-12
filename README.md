@@ -20,7 +20,7 @@
        B4                                         154.23                         ±48.73 
        C2                                         154.51                         ±48.54 
        C3                                         151.22                         ±49.10
-
+       C4                                         144.02                         ±48.72 
 
 
 
@@ -44,6 +44,6 @@ Detailed graphical information and the reports of quality control per sample in 
   
   [C3 graphic](./png_graphs_C3.zip) and  [C3 report](./C3.doc)
   
-  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
+  [C4 graphic](./png_graphs_C4.zip) and  [C4 report](./C4.doc)
   
   [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
