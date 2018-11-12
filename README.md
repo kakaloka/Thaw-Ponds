@@ -7,7 +7,23 @@
  2) To pair the reads, forward and reverse reads were merged using PEAR. 
  3) After merging the reads, the average length was 150 bp.
  
- Detailed information of quality control per sample in the links above:
+ Table 1. Sequence average per sample:
  
-                                           Average sequence length              Standar dev.
-       [A1](./png_graphs.zip)                     155                               49.22
+     Sample                              Average sequence length              Standar dev.
+       A1                                         155                             49.22
+       A2                                         150                             49.72
+       A3                                         
+
+
+
+
+
+
+
+
+
+
+Detailed information of quality control per sample in the links above:
+
+  [A1](./png_graphs.zip) 
+  [A2](./png_graphs_A2.zip) 
