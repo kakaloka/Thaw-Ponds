@@ -10,7 +10,7 @@
  
  Table 1. Sequence average per sample:
  
-     Sample                              Average sequence length(bp)              Standar dev.(bp)
+     Sample                              Average sequence length(bp)            Standar dev.(bp)
        A1                                         155.55                         ±49.22
        A2                                         150.72                         ±49.72
        A3                                         153.83                         ±49.22
@@ -21,7 +21,7 @@
        C2                                         154.51                         ±48.54 
        C3                                         151.22                         ±49.10
        C4                                         144.02                         ±48.72 
-
+       C5                                         147.01                         ±49.52 
 
 
 Detailed graphical information and the reports of quality control per sample in the links below:
@@ -46,4 +46,4 @@ Detailed graphical information and the reports of quality control per sample in 
   
   [C4 graphic](./png_graphs_C4.zip) and  [C4 report](./C4.doc)
   
-  [B4 graphic](./png_graphs_B4.zip) and  [B4 report](./B4.doc)
+  [C5 graphic](./png_graphs_C5.zip) and  [C5 report](./C5.doc)
