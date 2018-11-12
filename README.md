@@ -24,7 +24,7 @@
 
 
 
-Detailed graphical information and the reports of quality control per sample in the links above:
+Detailed graphical information and the reports of quality control per sample in the links below:
 
   [A1 graphic](./png_graphs.zip)  and   [A1 report](./A1.doc)
   
