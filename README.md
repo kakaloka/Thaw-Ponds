@@ -15,7 +15,7 @@
        A2                                         150.72                          49.72
        A3                                         153.83                          49.22
        A4                                         153.02                          49.75
-
+       B1                                         151.66                          49.37
 
 
 
@@ -33,3 +33,5 @@ Detailed graphical information and the reports of quality control per sample in 
   [A3 graphic](./png_graphs_A3.zip) and   [A3 report](./A3.doc)
   
   [A4 graphic](./png_graphs_A4.zip) and   [A4 report](./A4.doc)
+  
+  [B1 graphic](./png_graphs_B1.zip) and   [A4 report](./B1.doc)
