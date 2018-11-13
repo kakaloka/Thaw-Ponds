@@ -23,8 +23,8 @@
        C4                                         144.02                         ±48.72 
        C5                                         147.01                         ±49.52 
        D1                                         151.45                         ±48.80
-       
-       
+       D2                                         147.98                         ±49.32
+       D3                                         146.48                         ±48.92  
        
        
 
@@ -55,9 +55,9 @@ Detailed graphical information and the reports of quality control per sample in 
   
   [D1 graphic](./png_graphs_D1.zip) and  [D1 report](./D1.doc)
   
-  [C5 graphic](./png_graphs_C5.zip) and  [C5 report](./C5.doc)
+  [D2 graphic](./png_graphs_D2.zip) and  [D2 report](./D2.doc)
   
-  [C5 graphic](./png_graphs_C5.zip) and  [C5 report](./C5.doc)
+  [D3 graphic](./png_graphs_D3.zip) and  [D3 report](./D3.doc)
   
   [C5 graphic](./png_graphs_C5.zip) and  [C5 report](./C5.doc)
   
