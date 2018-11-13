@@ -59,7 +59,7 @@ Detailed graphical information and the reports of quality control per sample in 
   
   [D3 graphic](./png_graphs_D3.zip) and  [D3 report](./D3.doc)
   
-  [C5 graphic](./png_graphs_C5.zip) and  [C5 report](./C5.doc)
+  [D4 graphic](./png_graphs_D4.zip) and  [D4 report](./D4.doc)
   
   [C5 graphic](./png_graphs_C5.zip) and  [C5 report](./C5.doc)
   
