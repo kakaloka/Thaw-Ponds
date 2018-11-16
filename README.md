@@ -6,7 +6,7 @@
  1) Raw reads were trimmed using Sickle
  2) To pair the reads, forward and reverse reads were merged using PEAR. 
  3) After merging the reads, the average length was 150 bp.
- 4) Above is detailed quality information according to prinseq output
+ 4) Above is detailed quality information according to prinseq output for the merged reads (PEAR outoput)
  
  Table 1. Sequence average per sample:
  
@@ -28,8 +28,16 @@
        D4                                         147.00                         ±49.24
        E1                                         152.21                         ±49.56     
        E2                                         152.05                         ±49.48
+       E3                                         148.81                         ±48.78
+       E4                                         149.18                         ±49.08 
+       F3                                         146.84                         ±49.53
+       F4                                         146.22                         ±49.47
+       F5                                         150.16                         ±48.25
+       G1                                         151.75                         ±49.47
+       I1                                         153.23                         ±49.06
+       I2                                         146.44                         ±48.99
+       I3                                         153.04                         ±48.95 
        
-
 
 Detailed graphical information and the reports of quality control per sample in the links below:
 
@@ -66,3 +74,21 @@ Detailed graphical information and the reports of quality control per sample in 
   [E1 graphic](./png_graphs_E1.zip) and  [E1 report](./E1.doc)
   
   [E2 graphic](./png_graphs_E2.zip) and  [E2 report](./E2.doc)
+  
+  [E3 graphic](./png_graphs_E3.zip) and  [E3 report](./E3.doc) 
+  
+  [E4 graphic](./png_graphs_E4.zip) and  [E4 report](./E4.doc)   
+  
+  [F3 graphic](./png_graphs_F3.zip) and  [F3 report](./F3.docx)   
+
+  [F4 graphic](./png_graphs_F4.zip) and  [F4 report](./F4.doc)   
+  
+  [F5 graphic](./png_graphs_F5.zip) and  [F5 report](./F5.doc)  
+  
+  [G1 graphic](./png_graphs_G1.zip) and  [G1 report](./G1.doc)  
+  
+  [I1 graphic](./png_graphs_I1.zip) and  [I1 report](./I1.doc)  
+  
+  [I2 graphic](./png_graphs_I2.zip) and  [I2 report](./I2.doc)  
+  
+  [I3 graphic](./png_graphs_I3.zip) and  [I3 report](./I3.doc) 
