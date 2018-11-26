@@ -84,10 +84,13 @@ In the terminal:
 
 print the column with the contig id:
 
+```shell
+
 awk '{print $2}' bin4_decontaminar.txt | sed s/\"//g | grep -v "bin" > bin4_first_column_parse_2
 
 perl bin_cleanner.pl bin_378.fa bin378_first_column_parse_2
 
+ ```
 
 In order to know if the completness is affected, is good to analyse if we let at least one contig per gene marker
 
