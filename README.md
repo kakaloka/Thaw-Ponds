@@ -9,7 +9,7 @@ R and perl
 ## First in R
 
 Extracted from [Genome Bin Decontamination, Connor Skennerton - Oct 3rd, 2015 - posted in bioinformatics](http://ctskennerton.github.io/blog/2015/10/03/Bin-Decontamination/)
-In our analysis we adapted the R pipeline previous described by Connor Skennerton, here I have copied the original description and code and you can find our modifications in the file ......
+In our analysis we adapted the R pipeline previous described by Connor Skennerton, here I have copied the original description and code and you can find our modifications in the file [history_bin_decontamination.Rhistory](history_bin_decontamination.Rhistory)
 
 
 ## Background
