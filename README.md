@@ -84,7 +84,7 @@ write.table(newdata_bin4, "bin4_decontaminar.txt", sep="\t")
 In the terminal:
 
 Example:  example how to use [bin_cleanner.pl](bin_cleanner.pl)
-print the column with the contig id,
+First, print the column with the contig id,
 
 ```shell
 
