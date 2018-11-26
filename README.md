@@ -7,13 +7,14 @@
 R and perl 
 
 ## First in R
-Genome Bin Decontamination
-by Connor Skennerton - Oct 3rd, 2015 - posted in bioinformatics
 
-Genome bins comming off automated pipelines can be contaminated with parts of other genomes. As part of my workflow I use CheckM (I’m biased since I’m a coauthor) to assess the contamination of genome bins using single-copy marker genes. If you’re lucky then the genome bins that you’re interested in will be relatively complete without much contamination. Unfortunately that isn’t always the case. In this blog post I’m going to run through some of the analyses that I did on a genome bin that was 90% complete but 70% contaminated. This is exploratory analysis to see if I can manually improve the bin over what the automated tools can do.
+Extracted from [Genome Bin Decontamination, Connor Skennerton - Oct 3rd, 2015 - posted in bioinformatics](http://ctskennerton.github.io/blog/2015/10/03/Bin-Decontamination/)
+In our analysis we adapted the R pipeline previous described by Connor Skennerton, here I have copied the original description and code and you can find our modifications in the file ......
+
 
 ## Background
-I’m not going into details on how I got this bin but briefly I had three metagenomic samples, named 3730, 5133, and 5579, which were assembled with megahit and binned using metabat. I ran the genome bins from sample 3730 through CheckM. In the below analysis I’m going to try to improve bin_41.
+
+In the below analysis I’m going to try to improve bin_41.
 
 ## Analysis
 Creating the input files
@@ -74,9 +75,9 @@ plot of chunk bin-decontamination-single-marker-positions
 
 So now we can see that ther are three contigs containing this marker, one appears to be an outlier, but the other two contigs have quite similar coverage profiles
 
-## Perl scripts
+##  Custome Perl scripts
 
-After R analysis we export a table with the contigs to get rid off:
+After R analysis we exported a table with the contigs to be eliminated:
 
 write.table(newdata_bin4, "bin4_decontaminar.txt", sep="\t")
 
@@ -92,7 +93,7 @@ perl bin_cleanner.pl bin_378.fa bin378_first_column_parse_2
 
  ```
 
-In order to know if the completness is affected, is good to analyse if we let at least one contig per gene marker
+In order to know if the completeness is affected, is good to analyse if we let at least one contig per gene marker
 
 export from R the file with the gene marker of the bin in question:
 
