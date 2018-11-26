@@ -2,7 +2,7 @@
 
 ## Bin refining pipeline
 
-## Requiere 
+## Require 
 
 R and perl 
 
@@ -90,7 +90,7 @@ Example:
 
 awk '{print $2}' bin4_decontaminar.txt | sed s/\"//g | grep -v "bin" > bin4_first_column_parse_2
 
-perl bin_cleanner.pl bin_378.fa bin378_first_column_parse_2
+perl [bin_cleanner.pl](bin_cleanner.pl) bin_378.fa bin378_first_column_parse_2
 
  ```
 
@@ -106,7 +106,7 @@ Example:
 ```shell
 
 
-perl print_gene_marker_removed.pl bin4_all_duplicate_markers.txt bins/bin4_first_column_parse_2 
+perl [print_gene_marker_removed.pl](print_gene_marker_removed.pl) bin4_all_duplicate_markers.txt bins/bin4_first_column_parse_2 
 
 
  ```
