@@ -83,8 +83,8 @@ write.table(newdata_bin4, "bin4_decontaminar.txt", sep="\t")
 
 In the terminal:
 
+Example:  example how to use [bin_cleanner.pl](bin_cleanner.pl)
 print the column with the contig id,
-Example:
 
 ```shell
 
@@ -101,12 +101,12 @@ export from R the file with the gene marker of the bin in question:
 
 write.table(bin_4_duplicated_markers, "bin4_all_duplicate_markers.txt", sep="\t")
 
-Example:
+Example:using custom script [print_gene_marker_removed.pl](print_gene_marker_removed.pl)
 
 ```shell
 
 
-perl [print_gene_marker_removed.pl](print_gene_marker_removed.pl) bin4_all_duplicate_markers.txt bins/bin4_first_column_parse_2 
+perl print_gene_marker_removed.pl bin4_all_duplicate_markers.txt bins/bin4_first_column_parse_2 
 
 
  ```
