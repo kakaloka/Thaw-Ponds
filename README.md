@@ -75,7 +75,7 @@ plot of chunk bin-decontamination-single-marker-positions
 
 So now we can see that ther are three contigs containing this marker, one appears to be an outlier, but the other two contigs have quite similar coverage profiles
 
-##  Custome Perl scripts
+##  Custom Perl scripts
 
 After R analysis we exported a table with the contigs to be eliminated:
 
