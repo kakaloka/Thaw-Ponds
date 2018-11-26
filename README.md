@@ -96,11 +96,17 @@ In order to know if the completness is affected, is good to analyse if we let at
 
 export from R the file with the gene marker of the bin in question:
 
+
 write.table(bin_4_duplicated_markers, "bin4_all_duplicate_markers.txt", sep="\t")
+
+
+```shell
+
 
 perl print_gene_marker_removed.pl bin4_all_duplicate_markers.txt bins/bin4_first_column_parse_2 
 
 
+ ```
 
 
 
@@ -108,4 +114,3 @@ perl print_gene_marker_removed.pl bin4_all_duplicate_markers.txt bins/bin4_first
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
