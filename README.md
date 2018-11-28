@@ -9,7 +9,7 @@ Perl
 
 ### 1) get the significant sequencies for the general pfam files plus descriptions
 
-grep -E 'contig|Description' thaw_ponds_contigs_all_paired_pfams3.txt | grep -E 'flag|Description' | grep -v ">>" | awk '{if ($1~ /^Description/ || $1 < 0.0000000001) print $0}' > /home/leyden/significant_pfam2_10 
+grep -E 'contig|Description' thaw_ponds_contigs_all_paired_pfams3.txt | grep -E 'flag|Description' | grep -v ">>" | awk '{if ($1~ /^Description/ || $1 < 0.0000000001) print $0}' > significant_pfam2_10 
 
 ### 2) create a list of the contigs forming the bin and transform in the same ID name present in the significant pfam file
 
