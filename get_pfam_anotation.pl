@@ -7,8 +7,8 @@ use strict;
 my ($file1) = $ARGV[0];
 my ($file2) = $ARGV[1];
 
-open my $fh1, '<', $file1 or die "Could not open file $!"; #file with the duplicated gene market
-open my $fh2, '<', $file2 or die "Could not open file $!"; #file parse with the list to remove
+open my $fh1, '<', $file1 or die "Could not open file $!"; #file 1 see example code
+open my $fh2, '<', $file2 or die "Could not open file $!"; #file 2 see example code
 my @names;
 
 my $caca="";
